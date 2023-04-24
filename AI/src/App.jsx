@@ -5,7 +5,7 @@ import React from 'react';
 import{ addEdge, useNodesState, useEdgesState, MarkerType } from 'reactflow';
 
 
-const api = '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';
+const api = 'Your API key';
 function Flow() {
   var [message, setMessages] = useNodesState('');
 
